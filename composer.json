@@ -1,0 +1,15 @@
+{
+    "name": "fanny/fanny-google",
+    "description": "Login Google API",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Fanny",
+            "email": "fanny20ti@mahasiswa.pcr.ac.id"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
